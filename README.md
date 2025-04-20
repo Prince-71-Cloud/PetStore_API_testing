@@ -45,3 +45,8 @@ PetStore_API_Testing/
 ├── Report/                                           # Newman-generated HTML reports
 └── README.md                                         # Project documentation
 
+
+
+![1](https://github.com/user-attachments/assets/51c72494-ff8e-4a20-9498-2aa894bc9ed8)
+![Screenshot From 2025-04-21 00-21-19](https://github.com/user-attachments/assets/c58976c8-a59b-4a1d-812a-8f7a1569b0b9)
+![Screenshot From 2025-04-21 00-23-26](https://github.com/user-attachments/assets/dbec13cb-8b0e-4510-bc77-e8967f34f435)
