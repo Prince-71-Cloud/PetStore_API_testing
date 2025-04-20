@@ -30,13 +30,14 @@ The integration with Jenkins automates the execution of Postman tests as part of
 - 📊 **HTML Reports** generation for each test run
 - 🔁 Integrated with **Jenkins** for Continuous Integration
 - ✅ Assertions for:
+  - Response content
+  - Data validation
   - HTTP status codes![Screenshot From 2025-04-21 00-28-21](https://github.com/user-attachments/assets/0dfd1414-5c71-49b3-86e8-80e554312c98)
 ![Screenshot From 2025-04-21 00-23-26](https://github.com/user-attachments/assets/c48b06f9-b873-40f1-9a05-2e42e57d610c)
 ![Screenshot From 2025-04-21 00-21-19](https://github.com/user-attachments/assets/c4ae7c2a-afa8-4db0-9651-023770301811)
 ![1](https://github.com/user-attachments/assets/bbf2aead-82f6-4756-ac67-7e257821a668)
 
-  - Response content
-  - Data validation
+ 
 
 ---
 
